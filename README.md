@@ -4,7 +4,7 @@ This project builds and trains a machine learning model to [briefly describe the
 The notebook runs end-to-end: from data preprocessing, model training, evaluation, and inference.
 
 ## 📂 Dataset
-- Dataset Source: [Kaggle Dataset Link or "Uploaded manually"]
+- Dataset Source: https://www.kaggle.com/datasets/yungbyun/sensor-data/data
 - Format: CSV / Images / Archive (ZIP)
 - Preprocessing:
   - Handled missing values
